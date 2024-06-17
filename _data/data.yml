@@ -8,24 +8,24 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Amaan Thasin
+    tagline: Data Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: amaan.thasin@gmail.com
+    phone: 517-775-9323
+    timezone: Eastern Daylight Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    website:
+    linkedin: amaanthasin
+    xing: 
+    github: amaanthasin
+    telegram: 
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: 
+    stack-overflow:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
@@ -34,41 +34,44 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: Native
+          level: Native / Professional
 
-        - idiom: French
-          level: Professional
+        - idiom: 
+          level: 
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: 
+          level: 
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Sports
           link:
 
-        - item: Snowboarding
+        - item: Volunteering
           link:
 
-        - item: Cooking
+        - item: Islam
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am currently a third-year student at Michigan State University, pursuing a 
+      Bachelor of Science degree in Data Science within the College of Natural Science. 
+      This program provides me with a comprehensive understanding of data manipulation, statistical 
+      analysis, and machine learning, primarily through coursework focused on Python programming.
+      
+      Throughout my studies, I have engaged in several projects that allow me to apply theoretical knowledge to practical
+      problems. These projects include developing a predictive model for NBA salaries, predicting MVPs using regression 
+      analysis, and creating interactive visualization dashboards.
+      
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BSc in Data Science
+        university: Michigan State University
+        time: 2021 - 2025
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,9 +80,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: 
+        university: 
+        time: 
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -90,11 +93,11 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: 
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: 
+        time: 
+        company: 
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
