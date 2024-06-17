@@ -8,21 +8,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Amaan Thasin
-    tagline: Data Scientist
+    name: Alan Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: amaan.thasin@gmail.com
-    phone: 517-775-9323
-    timezone: Eastern Daylight Timezone
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    timezone: America/Cancun Timezone
     citizenship:
     website: blog.webjeda.com #do not add http://
-    linkedin: amaanthasin
-    github: amaanthasin
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
+    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -34,43 +36,58 @@ sidebar:
         - idiom: English
           level: Native
 
+        - idiom: French
+          level: Professional
+
+        - idiom: Spanish
+          level: Professional
+
     interests:
       title: Interests
       info:
-        - item: Sports
+        - item: Climbing
           link:
 
-        - item: Volunteering
+        - item: Snowboarding
           link:
 
-        - item: Islam
+        - item: Cooking
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-	 I am a third-year Data Science major at Michigan State University, set to graduate in 2025.
-	 I have a solid foundation in data science, with proficiency in Python, C++, and basic knowledge of R programming.
-	 My academic background is complemented by practical experience in statistical analysis, machine learning, and data visualization,
-	 evidenced by several individual and group projects.
-
-	 I have demonstrated strong project management and leadership skills through my role as a Project Coordinator for the Halima Project,
-	 where I provided mentorship and academic support to refugee children. Additionally, I have actively participated in extra-curricular
-	 activities, serving as an Event Coordinator for the Muslim Student Association at MSU.
-
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
     title: Education
     info:
-      - degree: BSc in Data Science
-        university: Michigan State University
-        time: 2021 - 2025
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
         details: |
-          My study in Data Science is characterized by a strong emphasis on practical application, technical proficiency, and collaborative learning.
-
-            - Advanced coursework in Python programming, where I have executed various data science projects.
-	    - Practical experience in predictive analytics, statistical modeling, and data visualization.
-            - Developing skills in programming languages such as Python, C++, and R.
-	    - Active participation in collaborative projects, which enhance my teamwork and problem-solving abilities.
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
 experiences:
     title: Experiences
