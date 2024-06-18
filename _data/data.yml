@@ -62,6 +62,19 @@ career-profile:
       problems. These projects include developing a predictive model for NBA salaries, predicting MVPs using regression 
       analysis, and creating interactive visualization dashboards.
       
+Volunteer-Service:
+    title: Halimah Project Coordinator
+    summary: |
+      Amaan has demonstrated strong project management and leadership skills through their role as a Project Coordinator 
+      for the Halima Project, where they provided mentorship and academic support to refugee children. 
+    
+    title: MSA Event Coordinator
+    summary: |
+      I organize and coordinate religious, social, and community activities to support the goals of Muslim students at Michigan State University. 
+      I represent the concerns of the Muslim student body, encouraging civic engagement and awareness about Islam on campus.
+      Additionally, I collaborate with the Islamic Center of Greater Lansing to facilitate community events and initiatives. 
+        
+    
 education:
     title: Education
     info:
@@ -126,14 +139,6 @@ projects:
       - title: NBA MVP Prediction 
         link: "#"
         tagline: "Collaborated with a team to predict upcoming year basketball MVPs using OLS modeling and regression analysis on player statistics. Additionally, built a model using past MVP data to predict MVPs and All-NBA teams, exploring alternative WLS modeling for improved accuracy."
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 skills:
