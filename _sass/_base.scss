@@ -285,3 +285,34 @@ p {
   }
 }
 
+.volunteer-service-section {
+    margin-top: 50px;
+}
+
+.volunteer-service-section .section-title {
+    color: #1976d2; // Example color
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.volunteer-item {
+    margin-bottom: 20px;
+}
+
+.volunteer-item h3 {
+    font-size: 20px;
+}
+
+.volunteer-item p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.volunteer-item ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.volunteer-item ul li {
+    margin-bottom: 5px;
+}
