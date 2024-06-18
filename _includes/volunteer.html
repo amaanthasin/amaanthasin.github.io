@@ -1,18 +1,26 @@
-{% assign volunteer-service = site.data.data.volunteer-service %}
-{% if career-profile %}
-<section class="section summary-section">
-
-  <h2 class="section-title">
-    <span class="fa-stack fa-xs">
-      <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-user fa-stack-1x fa-inverse"></i>
-    </span>
-    {{ volunteer-service.title }}
-  </h2>
-
-  <div class="summary">
-    {{ volunteer-service.summary | markdownify }}
-  </div><!--//summary-->
-    
-</section><!--//section-->
+{% assign volunteer_service = site.data.data.volunteer-service %}
+{% if volunteer_service %}
+<section class="section volunteer-service-section">
+    <h2 class="section-title">
+        <span class="fa-stack fa-xs">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fas fa-hands-helping fa-stack-1x fa-inverse"></i>
+        </span>
+        {{ volunteer_service.title }}
+    </h2>
+    <div class="volunteer-service-items">
+        {% for item in volunteer_service.items %}
+        <div class="volunteer-item">
+            <h3>{{ item.organization }} – {{ item.location }}</h3>
+            <p><strong>{{ item.role }}</strong> | {{ item.duration }}</p>
+            <ul>
+                {% for detail in item.details %}
+                <li>{{ detail }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endfor %}
+    </div>
+</section>
 {% endif %}
+
