@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Amaan Thasin
     tagline: Data Scientist
-    avatar: AT.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: AT_2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: amaan.thasin@gmail.com
@@ -18,7 +18,7 @@ sidebar:
     timezone: Eastern Daylight Timezone
     citizenship:
     website:
-    linkedin: amaanthasin
+    linkedin: amaan-thasin
     xing: 
     github: amaanthasin
     telegram: 
@@ -109,7 +109,7 @@ certifications:
           end: 
           organization: Cisco
           credentialid: 
-          credentialurl: https://www.credly.com/badges/a31d51d4-ba92-49cb-b0be-96c88c77f836/linked_in?t=sdjtnt
+          credentialurl: "https://www.credly.com/badges/a31d51d4-ba92-49cb-b0be-96c88c77f836/linked_in?t=sdjtnt"
           credentialname: Cisco
           details: |
             Cisco verifies the earner of this badge successfully completed the Introduction to Data Science course.
