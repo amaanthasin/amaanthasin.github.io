@@ -126,11 +126,11 @@ projects:
 
     assignments:
       - title: Impact of Individual Contribution on Team Success
-        link: "#hook"
+        link: "https://github.com/amaanthasin/amaanthasin.github.io/blob/master/assets/final_pres.pdf"
         tagline: "This visualization dashboard looks at how team success is impacted by individual contribution. This dashboard features four types of graphs including bar charts, radar charts, step line graphs, and area graphs."
         
       - title: NBA Salary Prediction
-        link: "#"
+        link: "https://github.com/amaanthasin/amaanthasin.github.io/blob/master/assets/CMSE%20201%20Final%20Project.pdf"
         tagline: "I developed a predictive model for NBA salaries over the next 20 years using a quadratic function. I utilized python programming and matplotlib to visualize predictions through line graphs."
 
       - title: NBA MVP Prediction 
