@@ -134,7 +134,7 @@ projects:
         tagline: "I developed a predictive model for NBA salaries over the next 20 years using a quadratic function. I utilized python programming and matplotlib to visualize predictions through line graphs."
 
       - title: NBA MVP Prediction 
-        link: "#file:///Users/amaanthasin/Downloads/CMSE%20202/group-proj/CMSE%20202%20Final%20Project%20NBA%20Predictions.pdf"
+        link: "https://github.com/amaanthasin/amaanthasin.github.io/blob/master/assets/CMSE%20202%20Final%20Project%20NBA%20Predictions.pdf"
         tagline: "Collaborated with a team to predict upcoming year basketball MVPs using OLS modeling and regression analysis on player statistics. Additionally, built a model using past MVP data to predict MVPs and All-NBA teams, exploring alternative WLS modeling for improved accuracy."
 
 
