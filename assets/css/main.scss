@@ -1,6 +1,11 @@
 ---
 
 ---
+{% include career-profile.html %}
+{% include certifications.html %}
+{% include projects.html %}
+{% include volunteer.html %}
+<!-- Include other sections as needed -->
 
 @charset "utf-8";
 
@@ -14,5 +19,5 @@ $resume-order: 1;
 $sidebar-order: 2;
 {% endif %}
 
-@import "skins/{{ site.theme_skin | default: 'blue' }}"; // skin
+@import "skins/{{ site.theme_skin | default: 'berry' }}"; // skin
 @import "default"; // main partials
